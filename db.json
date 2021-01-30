@@ -1,7 +1,8 @@
 {
     "bg": "https://wallpaperaccess.com/full/1145374.jpg",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "title": "Space Quiz - Alura",
+    "description": "Quiz  criado a partir da imersão react da Alura",
+    "url": "https://alura-quiz.regisbaldo.vercel.app/",
     "questions": [
       {
         "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",

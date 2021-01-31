@@ -4,10 +4,12 @@ import Head from 'next/head';
 import db from '../db.json';
 
 const GlobalStyle = createGlobalStyle`
+  * {
+    box-sizing: border-box;
+  }
   body {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     /* New styles */
     display: flex;
     flex-direction: column;

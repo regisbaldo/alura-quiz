@@ -5,25 +5,37 @@
     "url": "https://alura-quiz.regisbaldo.vercel.app/",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://www.clinivet.com.br/wp-content/uploads/laika02-400x272.jpg",
+        "title": "Qual o nome do primeiro animal que foi para o espaço?",
+        "description": "Vamos aquecer com um perguntinha.",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Martha",
+          "Laika",
+          "Flavia",
+          "Floquinho"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://image.freepik.com/vetores-gratis/estrela-de-astronauta-pesca-no-espaco_1366-716.jpg",
+        "title": "Qual o nome do primeiro astronauta que pisou na lua?",
+        "description": "Vamos ver se você lembra dessa.",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Neil Armstrong",
+           "Marcos Pontes",
+           "Marcos Paulo"
+        ]
+      },
+      {
+        "image": "https://cdn.awsli.com.br/1000x1000/1035/1035809/produto/38424928/a2686d2305.jpg",
+        "title": "Qual o nome da Apollo que foi responsável pelo primeiro pouso na lua?",
+        "description": "Essa é um pouco mais difícil que as outras",
+        "answer": 0,
+        "alternatives": [
+           "Apollo 12",
+           "Apollo 11",
+           "Apollo 10"
         ]
       }
     ],
